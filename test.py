@@ -3,7 +3,7 @@
 # f9p_rtk.py
 # by Lee in 2023/09/21
 # ubuntu18.04 + python3.6
-
+#test 20240420
 import spidev
 import io
 import rospy
